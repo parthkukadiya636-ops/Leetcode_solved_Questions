@@ -1,6 +1,4 @@
-/**
- * Note: The returned array must be malloced, assume caller calls free().
- */
+ 
 int* twoSum(int* numbers, int numbersSize, int target, int* returnSize) {
     int* nums = malloc(2*sizeof(int));
     *returnSize = 2;
