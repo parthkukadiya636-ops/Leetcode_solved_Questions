@@ -11,8 +11,7 @@ int checkRecord(char* s) {
             count1++;
         }
 
-        // count consecutive 'L'
-        if(i > 0 && s[i] == 'L' && s[i-1] == 'L') {
+         if(i > 0 && s[i] == 'L' && s[i-1] == 'L') {
             count++;
             if(count > maxL)
                 maxL = count;
