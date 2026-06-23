@@ -37,3 +37,19 @@ You can put these points in your README under "Key Highlights" or "About This Re
 If you want, I can also convert this into a stylish GitHub section with icons or short description lines! 😊
 
 Is this conversation helpful so far?
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0110-balanced-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0110-balanced-binary-tree) |
+<!---LeetCode Topics End-->
