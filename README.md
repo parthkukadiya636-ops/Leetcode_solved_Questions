@@ -44,12 +44,15 @@ Is this conversation helpful so far?
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0110-balanced-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0110-balanced-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0110-balanced-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
