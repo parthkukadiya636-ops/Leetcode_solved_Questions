@@ -43,16 +43,23 @@ Is this conversation helpful so far?
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0543-diameter-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
