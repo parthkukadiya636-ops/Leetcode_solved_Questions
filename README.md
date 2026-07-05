@@ -77,4 +77,16 @@ Is this conversation helpful so far?
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
+## Array
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0011-container-with-most-water) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
