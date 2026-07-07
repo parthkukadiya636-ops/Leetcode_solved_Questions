@@ -45,6 +45,7 @@ Is this conversation helpful so far?
 | ------- |
 | [0100-same-tree](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -65,6 +66,7 @@ Is this conversation helpful so far?
 | ------- |
 | [0100-same-tree](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -85,6 +87,7 @@ Is this conversation helpful so far?
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0011-container-with-most-water) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -93,4 +96,12 @@ Is this conversation helpful so far?
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0011-container-with-most-water) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
