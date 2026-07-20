@@ -56,6 +56,7 @@ Is this conversation helpful so far?
 | [0543-diameter-of-binary-tree](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -70,6 +71,7 @@ Is this conversation helpful so far?
 | [0543-diameter-of-binary-tree](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -86,6 +88,7 @@ Is this conversation helpful so far?
 | [0543-diameter-of-binary-tree](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
