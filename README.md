@@ -113,6 +113,7 @@ Is this conversation helpful so far?
 | ------- |
 | [0011-container-with-most-water](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0011-container-with-most-water) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0628-maximum-product-of-three-numbers](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -143,4 +144,12 @@ Is this conversation helpful so far?
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0572-subtree-of-another-tree) |
+## Math
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0628-maximum-product-of-three-numbers) |
+## Sorting
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
