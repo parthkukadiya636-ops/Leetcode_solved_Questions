@@ -117,10 +117,12 @@ Is this conversation helpful so far?
 | [1480-running-sum-of-1d-array](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1672-richest-customer-wealth) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0011-container-with-most-water) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
 |  |
 | ------- |
@@ -137,6 +139,7 @@ Is this conversation helpful so far?
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0700-search-in-a-binary-search-tree](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0700-search-in-a-binary-search-tree) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -165,6 +168,7 @@ Is this conversation helpful so far?
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/3536-maximum-product-of-two-digits) |
