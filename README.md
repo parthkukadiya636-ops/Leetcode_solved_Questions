@@ -114,6 +114,7 @@ Is this conversation helpful so far?
 | [0011-container-with-most-water](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0011-container-with-most-water) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0628-maximum-product-of-three-numbers](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1672-richest-customer-wealth) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
