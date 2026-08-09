@@ -114,6 +114,7 @@ Is this conversation helpful so far?
 | [0011-container-with-most-water](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0011-container-with-most-water) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0628-maximum-product-of-three-numbers](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0977-squares-of-a-sorted-array](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1260-shift-2d-grid) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1480-running-sum-of-1d-array) |
@@ -127,6 +128,7 @@ Is this conversation helpful so far?
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0011-container-with-most-water) |
+| [0977-squares-of-a-sorted-array](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
 |  |
@@ -177,6 +179,7 @@ Is this conversation helpful so far?
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0977-squares-of-a-sorted-array](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
