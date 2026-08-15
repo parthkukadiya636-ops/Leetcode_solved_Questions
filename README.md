@@ -124,6 +124,7 @@ Is this conversation helpful so far?
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -152,6 +153,7 @@ Is this conversation helpful so far?
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0222-count-complete-tree-nodes) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## String Matching
 |  |
 | ------- |
