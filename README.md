@@ -116,6 +116,7 @@ Is this conversation helpful so far?
 | [0628-maximum-product-of-three-numbers](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1260-shift-2d-grid) |
+| [1386-cinema-seat-allocation](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1386-cinema-seat-allocation) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1528-shuffle-string) |
@@ -139,6 +140,7 @@ Is this conversation helpful so far?
 | ------- |
 | [0011-container-with-most-water](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0011-container-with-most-water) |
 | [1323-maximum-69-number](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1323-maximum-69-number) |
+| [1386-cinema-seat-allocation](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -157,6 +159,7 @@ Is this conversation helpful so far?
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0222-count-complete-tree-nodes) |
+| [1386-cinema-seat-allocation](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## String Matching
 |  |
@@ -209,6 +212,7 @@ Is this conversation helpful so far?
 ## Hash Table
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1386-cinema-seat-allocation) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/3471-find-the-largest-almost-missing-integer) |
