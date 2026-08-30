@@ -126,6 +126,7 @@ Is this conversation helpful so far?
 | [1979-find-greatest-common-divisor-of-array](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2029-stone-game-ix](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -147,6 +148,7 @@ Is this conversation helpful so far?
 | [1323-maximum-69-number](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1323-maximum-69-number) |
 | [1386-cinema-seat-allocation](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Divide and Conquer
