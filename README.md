@@ -115,6 +115,7 @@ Is this conversation helpful so far?
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0566-reshape-the-matrix](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0724-find-pivot-index](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0724-find-pivot-index) |
 | [0835-image-overlap](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0835-image-overlap) |
 | [0977-squares-of-a-sorted-array](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1260-shift-2d-grid) |
@@ -259,6 +260,7 @@ Is this conversation helpful so far?
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/3903-smallest-stable-index-i) |
