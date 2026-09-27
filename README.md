@@ -117,6 +117,7 @@ Is this conversation helpful so far?
 | [0628-maximum-product-of-three-numbers](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0724-find-pivot-index) |
 | [0835-image-overlap](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0835-image-overlap) |
+| [0904-fruit-into-baskets](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -249,6 +250,7 @@ Is this conversation helpful so far?
 | ------- |
 | [0205-isomorphic-strings](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0904-fruit-into-baskets](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0904-fruit-into-baskets) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1386-cinema-seat-allocation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -303,6 +305,7 @@ Is this conversation helpful so far?
 ## Sliding Window
 |  |
 | ------- |
+| [0904-fruit-into-baskets](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0904-fruit-into-baskets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Union-Find
