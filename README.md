@@ -189,6 +189,7 @@ Is this conversation helpful so far?
 | [0572-subtree-of-another-tree](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0572-subtree-of-another-tree) |
 | [0709-to-lower-case](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0709-to-lower-case) |
 | [1528-shuffle-string](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1528-shuffle-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -316,4 +317,12 @@ Is this conversation helpful so far?
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0387-first-unique-character-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
