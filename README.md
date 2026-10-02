@@ -107,6 +107,7 @@ Is this conversation helpful so far?
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0022-generate-parentheses) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Array
 |  |
@@ -184,6 +185,7 @@ Is this conversation helpful so far?
 ## String Matching
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0022-generate-parentheses) |
 | [0205-isomorphic-strings](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0572-subtree-of-another-tree) |
@@ -324,5 +326,10 @@ Is this conversation helpful so far?
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
