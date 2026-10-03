@@ -21,7 +21,7 @@ public:
             
 
             mid = low + (high - low) / 2;
-            
+
             int x = guess(mid);
 
 
@@ -39,7 +39,7 @@ public:
            }
 
         }
-        return mid;
+        return -1;
         
     }
 };
