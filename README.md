@@ -108,6 +108,7 @@ Is this conversation helpful so far?
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0022-generate-parentheses) |
+| [0118-pascals-triangle](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0678-valid-parenthesis-string](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0678-valid-parenthesis-string) |
 ## Array
@@ -115,6 +116,7 @@ Is this conversation helpful so far?
 | ------- |
 | [0011-container-with-most-water](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0011-container-with-most-water) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0118-pascals-triangle) |
 | [0566-reshape-the-matrix](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0724-find-pivot-index) |
