@@ -187,6 +187,7 @@ Is this conversation helpful so far?
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0222-count-complete-tree-nodes) |
 | [1386-cinema-seat-allocation](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -194,6 +195,7 @@ Is this conversation helpful so far?
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0022-generate-parentheses) |
+| [0067-add-binary](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0572-subtree-of-another-tree) |
@@ -217,6 +219,7 @@ Is this conversation helpful so far?
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0067-add-binary) |
 | [0628-maximum-product-of-three-numbers](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1323-maximum-69-number) |
@@ -291,6 +294,7 @@ Is this conversation helpful so far?
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0067-add-binary) |
 | [0566-reshape-the-matrix](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0566-reshape-the-matrix) |
 | [1260-shift-2d-grid](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1260-shift-2d-grid) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
