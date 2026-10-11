@@ -140,6 +140,7 @@ Is this conversation helpful so far?
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2029-stone-game-ix](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -305,6 +306,7 @@ Is this conversation helpful so far?
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Minimax
 |  |
