@@ -207,6 +207,7 @@ Is this conversation helpful so far?
 | [0709-to-lower-case](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0709-to-lower-case) |
 | [0856-score-of-parentheses](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1528-shuffle-string](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1528-shuffle-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -347,6 +348,7 @@ Is this conversation helpful so far?
 | [0678-valid-parenthesis-string](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
