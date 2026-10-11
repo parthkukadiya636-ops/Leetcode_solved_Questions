@@ -203,6 +203,7 @@ Is this conversation helpful so far?
 | [0205-isomorphic-strings](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0520-detect-capital](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0520-detect-capital) |
 | [0572-subtree-of-another-tree](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0572-subtree-of-another-tree) |
 | [0678-valid-parenthesis-string](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0709-to-lower-case) |
