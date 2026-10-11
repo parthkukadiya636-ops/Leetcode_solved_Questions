@@ -201,6 +201,7 @@ Is this conversation helpful so far?
 | [0022-generate-parentheses](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0205-isomorphic-strings) |
+| [0383-ransom-note](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0572-subtree-of-another-tree) |
 | [0678-valid-parenthesis-string](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0678-valid-parenthesis-string) |
@@ -264,6 +265,7 @@ Is this conversation helpful so far?
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2029-stone-game-ix](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2029-stone-game-ix) |
@@ -273,6 +275,7 @@ Is this conversation helpful so far?
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0205-isomorphic-strings) |
+| [0383-ransom-note](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0904-fruit-into-baskets) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
