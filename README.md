@@ -143,6 +143,7 @@ Is this conversation helpful so far?
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -287,6 +288,7 @@ Is this conversation helpful so far?
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1386-cinema-seat-allocation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -377,4 +379,12 @@ Is this conversation helpful so far?
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0374-guess-number-higher-or-lower) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
