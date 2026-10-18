@@ -133,6 +133,7 @@ Is this conversation helpful so far?
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1528-shuffle-string) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -236,6 +237,7 @@ Is this conversation helpful so far?
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1323-maximum-69-number) |
+| [1512-number-of-good-pairs](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2029-stone-game-ix) |
 | [2469-convert-the-temperature](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2469-convert-the-temperature) |
@@ -275,6 +277,7 @@ Is this conversation helpful so far?
 | [0383-ransom-note](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1512-number-of-good-pairs](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1512-number-of-good-pairs) |
 | [2029-stone-game-ix](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -287,6 +290,7 @@ Is this conversation helpful so far?
 | [0904-fruit-into-baskets](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0904-fruit-into-baskets) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1386-cinema-seat-allocation) |
+| [1512-number-of-good-pairs](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1512-number-of-good-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
