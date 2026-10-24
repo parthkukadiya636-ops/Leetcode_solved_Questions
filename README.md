@@ -222,6 +222,7 @@ Is this conversation helpful so far?
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2409-count-days-spent-together](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -243,6 +244,7 @@ Is this conversation helpful so far?
 | [1512-number-of-good-pairs](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2029-stone-game-ix) |
+| [2409-count-days-spent-together](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2409-count-days-spent-together) |
 | [2469-convert-the-temperature](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2469-convert-the-temperature) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/3345-smallest-divisible-digit-product-i) |
