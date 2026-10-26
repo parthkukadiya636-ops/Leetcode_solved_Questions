@@ -370,6 +370,7 @@ Is this conversation helpful so far?
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0856-score-of-parentheses) |
+| [0901-online-stock-span](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -399,4 +400,16 @@ Is this conversation helpful so far?
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0901-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
