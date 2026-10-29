@@ -119,6 +119,7 @@ Is this conversation helpful so far?
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0119-pascals-triangle-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0238-product-of-array-except-self) |
 | [0566-reshape-the-matrix](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -190,6 +191,7 @@ Is this conversation helpful so far?
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0209-minimum-size-subarray-sum](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0374-guess-number-higher-or-lower](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0374-guess-number-higher-or-lower) |
 | [0700-search-in-a-binary-search-tree](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -310,6 +312,7 @@ Is this conversation helpful so far?
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1480-running-sum-of-1d-array) |
@@ -356,6 +359,7 @@ Is this conversation helpful so far?
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0904-fruit-into-baskets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
