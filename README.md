@@ -154,6 +154,7 @@ Is this conversation helpful so far?
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -325,6 +326,7 @@ Is this conversation helpful so far?
 | [0724-find-pivot-index](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/3904-smallest-stable-index-ii) |
 ## Matrix
@@ -342,6 +344,7 @@ Is this conversation helpful so far?
 | [1260-shift-2d-grid](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1260-shift-2d-grid) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3498-reverse-degree-of-a-string](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/3498-reverse-degree-of-a-string) |
 ## Enumeration
 |  |
