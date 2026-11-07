@@ -143,6 +143,7 @@ Is this conversation helpful so far?
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1672-richest-customer-wealth) |
+| [1773-count-items-matching-a-rule](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1773-count-items-matching-a-rule) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2029-stone-game-ix](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2029-stone-game-ix) |
@@ -233,6 +234,7 @@ Is this conversation helpful so far?
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1773-count-items-matching-a-rule](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1773-count-items-matching-a-rule) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2409-count-days-spent-together](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
