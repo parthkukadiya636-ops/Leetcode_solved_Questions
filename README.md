@@ -131,6 +131,7 @@ Is this conversation helpful so far?
 | [0904-fruit-into-baskets](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1051-height-checker](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1051-height-checker) |
 | [1260-shift-2d-grid](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -279,6 +280,7 @@ Is this conversation helpful so far?
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -301,6 +303,7 @@ Is this conversation helpful so far?
 | ------- |
 | [0383-ransom-note](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0387-first-unique-character-in-a-string) |
+| [1051-height-checker](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1512-number-of-good-pairs) |
 | [2029-stone-game-ix](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2029-stone-game-ix) |
@@ -440,4 +443,8 @@ Is this conversation helpful so far?
 |  |
 | ------- |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
