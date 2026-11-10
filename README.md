@@ -154,6 +154,7 @@ Is this conversation helpful so far?
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
+| [2293-min-max-game](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2293-min-max-game) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -359,6 +360,7 @@ Is this conversation helpful so far?
 | [0566-reshape-the-matrix](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0566-reshape-the-matrix) |
 | [1260-shift-2d-grid](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1260-shift-2d-grid) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2293-min-max-game](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2293-min-max-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3498-reverse-degree-of-a-string](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/3498-reverse-degree-of-a-string) |
