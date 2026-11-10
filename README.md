@@ -136,6 +136,7 @@ Is this conversation helpful so far?
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1386-cinema-seat-allocation) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1480-running-sum-of-1d-array) |
@@ -305,6 +306,7 @@ Is this conversation helpful so far?
 | [0387-first-unique-character-in-a-string](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [1051-height-checker](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1512-number-of-good-pairs) |
 | [2029-stone-game-ix](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2029-stone-game-ix) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -319,6 +321,7 @@ Is this conversation helpful so far?
 | [0904-fruit-into-baskets](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0904-fruit-into-baskets) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1386-cinema-seat-allocation) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1512-number-of-good-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
