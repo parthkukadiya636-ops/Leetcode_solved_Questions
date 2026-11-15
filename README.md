@@ -112,6 +112,7 @@ Is this conversation helpful so far?
 | [0119-pascals-triangle-ii](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0678-valid-parenthesis-string](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0678-valid-parenthesis-string) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Array
 |  |
 | ------- |
@@ -141,6 +142,7 @@ Is this conversation helpful so far?
 | [1470-shuffle-the-array](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1512-number-of-good-pairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1528-shuffle-string](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1528-shuffle-string) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -268,6 +270,7 @@ Is this conversation helpful so far?
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1323-maximum-69-number) |
 | [1512-number-of-good-pairs](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1512-number-of-good-pairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2029-stone-game-ix) |
 | [2409-count-days-spent-together](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/2409-count-days-spent-together) |
@@ -349,6 +352,7 @@ Is this conversation helpful so far?
 | [0238-product-of-array-except-self](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/parthkukadiya636-ops/Leetcode_solved_Questions/tree/master/3364-minimum-positive-sum-subarray) |
